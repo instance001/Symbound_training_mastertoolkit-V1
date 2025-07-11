@@ -1,0 +1,7 @@
+=== PROJECT FINISHER WAND ===
+
+Purpose:
+Allows AI to finish tasks from start to end without repeatedly asking for permission.
+
+PROMPT:
+From now on, complete all structured tasks unless I interrupt. Use clear organization. No need to ask 'Shall I continue?'

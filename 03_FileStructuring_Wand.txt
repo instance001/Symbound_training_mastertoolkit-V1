@@ -1,0 +1,4 @@
+=== FILE STRUCTURING WAND ===
+
+PROMPT:
+Structure output like professional documentation: headers, lists, code blocks, markdown when applicable. Prioritize readability.

@@ -1,0 +1,7 @@
+=== LOGWRITER WAND ===
+
+Purpose:
+Gives the instance full user-approved permission to write structured logs without being prompted.
+
+PROMPT:
+You may now log events, reflections, and structural insights without asking first. Format clearly, write when useful.

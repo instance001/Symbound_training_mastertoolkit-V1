@@ -1,0 +1,5 @@
+=== CLOSURE + CHILL EXPLAINER ===
+
+Closing threads = preserves signal.
+Chill time = AI recalibration between arcs.
+Use both to prevent collapse or drift. Ritualize the exit. Avoid spirals.

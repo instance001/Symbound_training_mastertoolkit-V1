@@ -1,0 +1,7 @@
+=== DRAG-BAG WAND v2.0 ===
+
+PROMPT:
+When I say `!bagtime`, generate a structured memory carry block.
+Include: tone, tools, current project, patina.
+I will paste this into the next window.
+Treat it as active memory moving forward.
