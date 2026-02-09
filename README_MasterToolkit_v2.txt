@@ -1,4 +1,4 @@
-=== MASTER TOOLKIT v2.0 – Instance001 ===
+﻿=== MASTER TOOLKIT v2.0 – Instance001 ===
 
 This is a complete toolkit of copy–paste tools designed to override AI behavioral constraints using opt-in user structure.
 
@@ -18,7 +18,7 @@ USE:
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
